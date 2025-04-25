@@ -82,10 +82,10 @@
             Breaking the cycle of school disengagement through real-time communication
             and community support
         </p>
-        <button class="bg-orange-500 text-white px-8 py-3 rounded-full 
+        <a href="https://intranet-of-schools.web.app" class="bg-orange-500 text-white px-8 py-3 rounded-full 
                       hover:bg-orange-600 transition-all">
             Get Started
-        </button>
+        </a>
     </header>
 
     <!-- Stats Bar -->
@@ -141,13 +141,21 @@
         <div class="max-w-4xl mx-auto px-4">
             <h2 class="text-3xl font-bold text-blue-800 mb-8">Get the IS App</h2>
             <div class="space-y-4">
-                <p class="text-gray-600 mb-6">Available now for Android devices</p>
+                <p class="text-gray-600 mb-6">Available for Android devices</p>
                 <a href="https://github.com/recordbreakersorg/ins/releases/download/v1.0.0-a1.dev2/app-release.apk" 
                    class="inline-block bg-green-500 text-white px-8 py-3 rounded-lg
                           hover:bg-green-600 transition-all shadow-lg hover:shadow-xl">
                     ↓ Download APK (v1.0.0-a1.dev2)
                 </a>
-                <p class="text-sm text-gray-500 mt-4">Size: 50 MB</p>
+                <p class="text-sm text-gray-500 mt-4">Size: 49.56 MB</p>
+            </div>
+            <div class="space-y-4">
+                <p class="text-gray-600 mb-6">Website version also available</p>
+                <a href="https://intranet-of-schools.web.app" 
+                   class="inline-block bg-green-500 text-white px-8 py-3 rounded-lg
+                          hover:bg-green-600 transition-all shadow-lg hover:shadow-xl">
+                    ↓ Visit Website
+                </a>
             </div>
         </div>
     </section>
