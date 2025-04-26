@@ -147,7 +147,7 @@
                           hover:bg-green-600 transition-all shadow-lg hover:shadow-xl">
                     ↓ Download APK (v1.0.0-a1.dev3)
                 </a>
-                <p class="text-sm text-gray-500 mt-4">Size: 49.56 MB</p>
+                <p class="text-sm text-gray-500 mt-4">Size: 52.7 MB</p>
             </div>
             <div class="space-y-4">
                 <p class="text-gray-600 mb-6">Website version also available</p>
