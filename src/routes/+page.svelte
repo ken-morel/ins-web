@@ -142,10 +142,10 @@
             <h2 class="text-3xl font-bold text-blue-800 mb-8">Get the IS App</h2>
             <div class="space-y-4">
                 <p class="text-gray-600 mb-6">Available for Android devices</p>
-                <a href="https://github.com/recordbreakersorg/ins/releases/download/v1.0.0-a1.dev2/app-release.apk" 
+                <a href="https://github.com/recordbreakersorg/ins/releases/download/v1.0.0-a1.dev3/app-release.apk" 
                    class="inline-block bg-green-500 text-white px-8 py-3 rounded-lg
                           hover:bg-green-600 transition-all shadow-lg hover:shadow-xl">
-                    ↓ Download APK (v1.0.0-a1.dev2)
+                    ↓ Download APK (v1.0.0-a1.dev3)
                 </a>
                 <p class="text-sm text-gray-500 mt-4">Size: 49.56 MB</p>
             </div>
@@ -154,7 +154,7 @@
                 <a href="https://intranet-of-schools.web.app" 
                    class="inline-block bg-green-500 text-white px-8 py-3 rounded-lg
                           hover:bg-green-600 transition-all shadow-lg hover:shadow-xl">
-                    ↓ Visit Website
+                    Visit Website
                 </a>
             </div>
         </div>
