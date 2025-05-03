@@ -3,11 +3,11 @@
   export const prerender = true;
   const team = [
     {
-      name: "Ken Morel",
-      role: "Developer",
-      nickname: "ama",
-      emoji: "💻",
+      name: "Alajemba",
+      role: "Economist",
+      emoji: "📈",
     },
+
     {
       name: "Tandjou Wilfred",
       role: "Operations",
@@ -24,9 +24,10 @@
       emoji: "👑",
     },
     {
-      name: "Alajemba",
-      role: "Economist",
-      emoji: "📈",
+      name: "Ken Morel",
+      role: "Developer",
+      nickname: "ama",
+      emoji: "💻",
     },
   ];
   const features = [
@@ -152,11 +153,11 @@
       <div class="space-y-4">
         <p class="text-gray-600 mb-6">Available for Android devices</p>
         <a
-          href="https://github.com/recordbreakersorg/ins/releases/download/v1.0.0-a2.dev3/app-release.apk"
+          href="https://github.com/recordbreakersorg/ins/releases/download/v1.0.0-a2.dev4/app-release.apk"
           class="inline-block bg-green-500 text-white px-8 py-3 rounded-lg
                           hover:bg-green-600 transition-all shadow-lg hover:shadow-xl"
         >
-          ↓ Download APK (v1.0.0-a2.dev3)
+          ↓ Download APK (v1.0.0-a2.dev4)
         </a>
         <p class="text-sm text-gray-500 mt-4">Size: 54.3 MB</p>
       </div>
@@ -215,4 +216,3 @@
 
 <style>
 </style>
-
